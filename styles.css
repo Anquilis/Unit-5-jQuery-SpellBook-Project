@@ -1,0 +1,16 @@
+body {
+    background-color:black;
+    background-image: url("https://t3.ftcdn.net/jpg/01/35/09/76/240_F_135097656_zL7rFbntd5uyjIKP7FJM7MajQDcxIGT8.jpg");
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 100px;
+}
